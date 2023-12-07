@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 
 const User = ({user}) => {
-    const{id,name,username,email} =user;
+    const{id,name,username} =user;
     const userStyle ={
         width:'200px',
         height:'250px',

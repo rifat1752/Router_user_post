@@ -1,0 +1,14 @@
+
+nav a {
+    margin-right: 20px;
+    text-decoration: none;
+}
+nav a.active {
+    text-decoration: underline;
+    background: tomato;
+    color: black;
+    width: 100px;
+    height: 20px; 
+    border-radius: 2px;
+
+}
